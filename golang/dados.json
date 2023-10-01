@@ -1,0 +1,562 @@
+[
+    {
+        "Posição": "1º",
+        "Variação": " 0",
+        "Time": {
+            "Escudo": "https://conteudo.cbf.com.br/cdn/imagens/escudos/60175rj.jpg?v=2023100112",
+            "Nome": "Botafogo - RJ"
+        },
+        "PTS": "51",
+        "Jogos": "24",
+        "Vitórias": "16",
+        "Empates": "3",
+        "Derrotas": "5",
+        "Gols Pró": "39",
+        "Gols Contra": "15",
+        "Saldo de Gols": "24",
+        "Cartões Amarelo": "60",
+        "Cartões Vermelho": "5",
+        "Aproveitamento": "70",
+        "Recentes": [
+            "D",
+            "D",
+            "D"
+        ],
+        "Próximo Jogo": {
+            "time": "Goiás - GO",
+            "escudo": "https://conteudo.cbf.com.br/cdn/imagens/escudos/00009go.jpg?v=2023100112"
+        }
+    },
+    {
+        "Posição": "2º",
+        "Variação": "+1",
+        "Time": {
+            "Escudo": "https://conteudo.cbf.com.br/cdn/imagens/escudos/00008rs.jpg?v=2023100112",
+            "Nome": "Grêmio - RS"
+        },
+        "PTS": "44",
+        "Jogos": "25",
+        "Vitórias": "13",
+        "Empates": "5",
+        "Derrotas": "7",
+        "Gols Pró": "40",
+        "Gols Contra": "32",
+        "Saldo de Gols": "8",
+        "Cartões Amarelo": "65",
+        "Cartões Vermelho": "4",
+        "Aproveitamento": "58",
+        "Recentes": [
+            "E",
+            "V",
+            "E"
+        ],
+        "Próximo Jogo": {
+            "time": "Internacional - RS",
+            "escudo": "https://conteudo.cbf.com.br/cdn/imagens/escudos/00009rs.jpg?v=2023100112"
+        }
+    },
+    {
+        "Posição": "3º",
+        "Variação": "-1",
+        "Time": {
+            "Escudo": "https://conteudo.cbf.com.br/cdn/imagens/escudos/00019sp.jpg?v=2023100112",
+            "Nome": "Palmeiras - SP"
+        },
+        "PTS": "44",
+        "Jogos": "24",
+        "Vitórias": "12",
+        "Empates": "8",
+        "Derrotas": "4",
+        "Gols Pró": "38",
+        "Gols Contra": "18",
+        "Saldo de Gols": "20",
+        "Cartões Amarelo": "68",
+        "Cartões Vermelho": "4",
+        "Aproveitamento": "61",
+        "Recentes": [
+            "E",
+            "V",
+            "D"
+        ],
+        "Próximo Jogo": {
+            "time": "Red Bull Bragantino - SP",
+            "escudo": "https://conteudo.cbf.com.br/cdn/imagens/escudos/00006sp.jpg?v=2023100112"
+        }
+    },
+    {
+        "Posição": "4º",
+        "Variação": "+3",
+        "Time": {
+            "Escudo": "https://conteudo.cbf.com.br/cdn/imagens/escudos/00006rj.jpg?v=2023100112",
+            "Nome": "Flamengo - RJ"
+        },
+        "PTS": "43",
+        "Jogos": "25",
+        "Vitórias": "12",
+        "Empates": "7",
+        "Derrotas": "6",
+        "Gols Pró": "37",
+        "Gols Contra": "30",
+        "Saldo de Gols": "7",
+        "Cartões Amarelo": "56",
+        "Cartões Vermelho": "2",
+        "Aproveitamento": "57",
+        "Recentes": [
+            "D",
+            "E",
+            "V"
+        ],
+        "Próximo Jogo": {
+            "time": "Corinthians - SP",
+            "escudo": "https://conteudo.cbf.com.br/cdn/imagens/escudos/00021sp.jpg?v=2023100112"
+        }
+    },
+    {
+        "Posição": "5º",
+        "Variação": "-1",
+        "Time": {
+            "Escudo": "https://conteudo.cbf.com.br/cdn/imagens/escudos/00006sp.jpg?v=2023100112",
+            "Nome": "Red Bull Bragantino - SP"
+        },
+        "PTS": "42",
+        "Jogos": "24",
+        "Vitórias": "11",
+        "Empates": "9",
+        "Derrotas": "4",
+        "Gols Pró": "33",
+        "Gols Contra": "21",
+        "Saldo de Gols": "12",
+        "Cartões Amarelo": "73",
+        "Cartões Vermelho": "3",
+        "Aproveitamento": "58",
+        "Recentes": [
+            "E",
+            "V",
+            "V"
+        ],
+        "Próximo Jogo": {
+            "time": "Palmeiras - SP",
+            "escudo": "https://conteudo.cbf.com.br/cdn/imagens/escudos/00019sp.jpg?v=2023100112"
+        }
+    },
+    {
+        "Posição": "6º",
+        "Variação": "-1",
+        "Time": {
+            "Escudo": "https://conteudo.cbf.com.br/cdn/imagens/escudos/00009rj.jpg?v=2023100112",
+            "Nome": "Fluminense - RJ"
+        },
+        "PTS": "41",
+        "Jogos": "25",
+        "Vitórias": "12",
+        "Empates": "5",
+        "Derrotas": "8",
+        "Gols Pró": "34",
+        "Gols Contra": "29",
+        "Saldo de Gols": "5",
+        "Cartões Amarelo": "87",
+        "Cartões Vermelho": "8",
+        "Aproveitamento": "54",
+        "Recentes": [
+            "D",
+            "V",
+            "D"
+        ],
+        "Próximo Jogo": {
+            "time": "Botafogo - RJ",
+            "escudo": "https://conteudo.cbf.com.br/cdn/imagens/escudos/60175rj.jpg?v=2023100112"
+        }
+    },
+    {
+        "Posição": "7º",
+        "Variação": "-1",
+        "Time": {
+            "Escudo": "https://conteudo.cbf.com.br/cdn/imagens/escudos/00004pr.jpg?v=2023100112",
+            "Nome": "Athletico Paranaense - PR"
+        },
+        "PTS": "40",
+        "Jogos": "24",
+        "Vitórias": "11",
+        "Empates": "7",
+        "Derrotas": "6",
+        "Gols Pró": "37",
+        "Gols Contra": "27",
+        "Saldo de Gols": "10",
+        "Cartões Amarelo": "74",
+        "Cartões Vermelho": "4",
+        "Aproveitamento": "55",
+        "Recentes": [
+            "E",
+            "V",
+            "V"
+        ],
+        "Próximo Jogo": {
+            "time": "Coritiba S.a.f. - PR",
+            "escudo": "https://conteudo.cbf.com.br/cdn/imagens/escudos/61590pr.jpg?v=2023100112"
+        }
+    },
+    {
+        "Posição": "8º",
+        "Variação": "+1",
+        "Time": {
+            "Escudo": "https://conteudo.cbf.com.br/cdn/imagens/escudos/00003mg.jpg?v=2023100112",
+            "Nome": "Atlético Mineiro - MG"
+        },
+        "PTS": "40",
+        "Jogos": "25",
+        "Vitórias": "11",
+        "Empates": "7",
+        "Derrotas": "7",
+        "Gols Pró": "29",
+        "Gols Contra": "19",
+        "Saldo de Gols": "10",
+        "Cartões Amarelo": "83",
+        "Cartões Vermelho": "5",
+        "Aproveitamento": "53",
+        "Recentes": [
+            "V",
+            "V",
+            "V"
+        ],
+        "Próximo Jogo": {
+            "time": "Coritiba S.a.f. - PR",
+            "escudo": "https://conteudo.cbf.com.br/cdn/imagens/escudos/61590pr.jpg?v=2023100112"
+        }
+    },
+    {
+        "Posição": "9º",
+        "Variação": "-1",
+        "Time": {
+            "Escudo": "https://conteudo.cbf.com.br/cdn/imagens/escudos/00003ce.jpg?v=2023100112",
+            "Nome": "Fortaleza - CE"
+        },
+        "PTS": "39",
+        "Jogos": "25",
+        "Vitórias": "11",
+        "Empates": "6",
+        "Derrotas": "8",
+        "Gols Pró": "30",
+        "Gols Contra": "24",
+        "Saldo de Gols": "6",
+        "Cartões Amarelo": "71",
+        "Cartões Vermelho": "1",
+        "Aproveitamento": "52",
+        "Recentes": [
+            "V",
+            "V",
+            "E"
+        ],
+        "Próximo Jogo": {
+            "time": "America Saf - MG",
+            "escudo": "https://conteudo.cbf.com.br/cdn/imagens/escudos/59897mg.jpg?v=2023100112"
+        }
+    },
+    {
+        "Posição": "10º",
+        "Variação": " 0",
+        "Time": {
+            "Escudo": "https://conteudo.cbf.com.br/cdn/imagens/escudos/00017sp.jpg?v=2023100112",
+            "Nome": "São Paulo - SP"
+        },
+        "PTS": "34",
+        "Jogos": "25",
+        "Vitórias": "9",
+        "Empates": "7",
+        "Derrotas": "9",
+        "Gols Pró": "31",
+        "Gols Contra": "27",
+        "Saldo de Gols": "4",
+        "Cartões Amarelo": "77",
+        "Cartões Vermelho": "5",
+        "Aproveitamento": "45",
+        "Recentes": [
+            "D",
+            "V",
+            "V"
+        ],
+        "Próximo Jogo": {
+            "time": "Vasco da Gama S.a.f. - RJ",
+            "escudo": "https://conteudo.cbf.com.br/cdn/imagens/escudos/60646rj.jpg?v=2023100112"
+        }
+    },
+    {
+        "Posição": "11º",
+        "Variação": "+1",
+        "Time": {
+            "Escudo": "https://conteudo.cbf.com.br/cdn/imagens/escudos/00062mt.jpg?v=2023100112",
+            "Nome": "Cuiabá Saf - MT"
+        },
+        "PTS": "32",
+        "Jogos": "25",
+        "Vitórias": "9",
+        "Empates": "5",
+        "Derrotas": "11",
+        "Gols Pró": "26",
+        "Gols Contra": "30",
+        "Saldo de Gols": "-4",
+        "Cartões Amarelo": "73",
+        "Cartões Vermelho": "3",
+        "Aproveitamento": "42",
+        "Recentes": [
+            "E",
+            "D",
+            "V"
+        ],
+        "Próximo Jogo": {
+            "time": "Cruzeiro Saf - MG",
+            "escudo": "https://conteudo.cbf.com.br/cdn/imagens/escudos/59849mg.jpg?v=2023100112"
+        }
+    },
+    {
+        "Posição": "12º",
+        "Variação": "-1",
+        "Time": {
+            "Escudo": "https://conteudo.cbf.com.br/cdn/imagens/escudos/00021sp.jpg?v=2023100112",
+            "Nome": "Corinthians - SP"
+        },
+        "PTS": "30",
+        "Jogos": "25",
+        "Vitórias": "7",
+        "Empates": "9",
+        "Derrotas": "9",
+        "Gols Pró": "29",
+        "Gols Contra": "31",
+        "Saldo de Gols": "-2",
+        "Cartões Amarelo": "60",
+        "Cartões Vermelho": "1",
+        "Aproveitamento": "40",
+        "Recentes": [
+            "E",
+            "V",
+            "D"
+        ],
+        "Próximo Jogo": {
+            "time": "Flamengo - RJ",
+            "escudo": "https://conteudo.cbf.com.br/cdn/imagens/escudos/00006rj.jpg?v=2023100112"
+        }
+    },
+    {
+        "Posição": "13º",
+        "Variação": " 0",
+        "Time": {
+            "Escudo": "https://conteudo.cbf.com.br/cdn/imagens/escudos/59849mg.jpg?v=2023100112",
+            "Nome": "Cruzeiro Saf - MG"
+        },
+        "PTS": "29",
+        "Jogos": "24",
+        "Vitórias": "7",
+        "Empates": "8",
+        "Derrotas": "9",
+        "Gols Pró": "23",
+        "Gols Contra": "21",
+        "Saldo de Gols": "2",
+        "Cartões Amarelo": "65",
+        "Cartões Vermelho": "4",
+        "Aproveitamento": "40",
+        "Recentes": [
+            "E",
+            "V",
+            "D"
+        ],
+        "Próximo Jogo": {
+            "time": "America Saf - MG",
+            "escudo": "https://conteudo.cbf.com.br/cdn/imagens/escudos/59897mg.jpg?v=2023100112"
+        }
+    },
+    {
+        "Posição": "14º",
+        "Variação": " 0",
+        "Time": {
+            "Escudo": "https://conteudo.cbf.com.br/cdn/imagens/escudos/00009rs.jpg?v=2023100112",
+            "Nome": "Internacional - RS"
+        },
+        "PTS": "29",
+        "Jogos": "25",
+        "Vitórias": "7",
+        "Empates": "8",
+        "Derrotas": "10",
+        "Gols Pró": "20",
+        "Gols Contra": "29",
+        "Saldo de Gols": "-9",
+        "Cartões Amarelo": "79",
+        "Cartões Vermelho": "4",
+        "Aproveitamento": "38",
+        "Recentes": [
+            "V",
+            "D",
+            "D"
+        ],
+        "Próximo Jogo": {
+            "time": "Grêmio - RS",
+            "escudo": "https://conteudo.cbf.com.br/cdn/imagens/escudos/00008rs.jpg?v=2023100112"
+        }
+    },
+    {
+        "Posição": "15º",
+        "Variação": " 0",
+        "Time": {
+            "Escudo": "https://conteudo.cbf.com.br/cdn/imagens/escudos/60646rj.jpg?v=2023100112",
+            "Nome": "Vasco da Gama S.a.f. - RJ"
+        },
+        "PTS": "26",
+        "Jogos": "24",
+        "Vitórias": "7",
+        "Empates": "5",
+        "Derrotas": "12",
+        "Gols Pró": "26",
+        "Gols Contra": "34",
+        "Saldo de Gols": "-8",
+        "Cartões Amarelo": "73",
+        "Cartões Vermelho": "3",
+        "Aproveitamento": "36",
+        "Recentes": [
+            "V",
+            "V",
+            "V"
+        ],
+        "Próximo Jogo": {
+            "time": "Santos - SP",
+            "escudo": "https://conteudo.cbf.com.br/cdn/imagens/escudos/00018sp.jpg?v=2023100112"
+        }
+    },
+    {
+        "Posição": "16º",
+        "Variação": " 0",
+        "Time": {
+            "Escudo": "https://conteudo.cbf.com.br/cdn/imagens/escudos/00009go.jpg?v=2023100112",
+            "Nome": "Goiás - GO"
+        },
+        "PTS": "26",
+        "Jogos": "24",
+        "Vitórias": "6",
+        "Empates": "8",
+        "Derrotas": "10",
+        "Gols Pró": "20",
+        "Gols Contra": "30",
+        "Saldo de Gols": "-10",
+        "Cartões Amarelo": "69",
+        "Cartões Vermelho": "7",
+        "Aproveitamento": "36",
+        "Recentes": [
+            "E",
+            "D",
+            "E"
+        ],
+        "Próximo Jogo": {
+            "time": "Botafogo - RJ",
+            "escudo": "https://conteudo.cbf.com.br/cdn/imagens/escudos/60175rj.jpg?v=2023100112"
+        }
+    },
+    {
+        "Posição": "17º",
+        "Variação": " 0",
+        "Time": {
+            "Escudo": "https://conteudo.cbf.com.br/cdn/imagens/escudos/61377ba.jpg?v=2023100112",
+            "Nome": "Bahia - BA"
+        },
+        "PTS": "25",
+        "Jogos": "25",
+        "Vitórias": "6",
+        "Empates": "7",
+        "Derrotas": "12",
+        "Gols Pró": "28",
+        "Gols Contra": "34",
+        "Saldo de Gols": "-6",
+        "Cartões Amarelo": "61",
+        "Cartões Vermelho": "4",
+        "Aproveitamento": "33",
+        "Recentes": [
+            "V",
+            "D",
+            "D"
+        ],
+        "Próximo Jogo": {
+            "time": "Goiás - GO",
+            "escudo": "https://conteudo.cbf.com.br/cdn/imagens/escudos/00009go.jpg?v=2023100112"
+        }
+    },
+    {
+        "Posição": "18º",
+        "Variação": " 0",
+        "Time": {
+            "Escudo": "https://conteudo.cbf.com.br/cdn/imagens/escudos/00018sp.jpg?v=2023100112",
+            "Nome": "Santos - SP"
+        },
+        "PTS": "24",
+        "Jogos": "24",
+        "Vitórias": "6",
+        "Empates": "6",
+        "Derrotas": "12",
+        "Gols Pró": "23",
+        "Gols Contra": "40",
+        "Saldo de Gols": "-17",
+        "Cartões Amarelo": "72",
+        "Cartões Vermelho": "6",
+        "Aproveitamento": "33",
+        "Recentes": [
+            "D",
+            "D",
+            "V"
+        ],
+        "Próximo Jogo": {
+            "time": "Vasco da Gama S.a.f. - RJ",
+            "escudo": "https://conteudo.cbf.com.br/cdn/imagens/escudos/60646rj.jpg?v=2023100112"
+        }
+    },
+    {
+        "Posição": "19º",
+        "Variação": " 0",
+        "Time": {
+            "Escudo": "https://conteudo.cbf.com.br/cdn/imagens/escudos/59897mg.jpg?v=2023100112",
+            "Nome": "America Saf - MG"
+        },
+        "PTS": "17",
+        "Jogos": "24",
+        "Vitórias": "4",
+        "Empates": "5",
+        "Derrotas": "15",
+        "Gols Pró": "26",
+        "Gols Contra": "50",
+        "Saldo de Gols": "-24",
+        "Cartões Amarelo": "63",
+        "Cartões Vermelho": "9",
+        "Aproveitamento": "23",
+        "Recentes": [
+            "E",
+            "D",
+            "D"
+        ],
+        "Próximo Jogo": {
+            "time": "Cruzeiro Saf - MG",
+            "escudo": "https://conteudo.cbf.com.br/cdn/imagens/escudos/59849mg.jpg?v=2023100112"
+        }
+    },
+    {
+        "Posição": "20º",
+        "Variação": " 0",
+        "Time": {
+            "Escudo": "https://conteudo.cbf.com.br/cdn/imagens/escudos/61590pr.jpg?v=2023100112",
+            "Nome": "Coritiba S.a.f. - PR"
+        },
+        "PTS": "14",
+        "Jogos": "24",
+        "Vitórias": "3",
+        "Empates": "5",
+        "Derrotas": "16",
+        "Gols Pró": "25",
+        "Gols Contra": "53",
+        "Saldo de Gols": "-28",
+        "Cartões Amarelo": "37",
+        "Cartões Vermelho": "2",
+        "Aproveitamento": "19",
+        "Recentes": [
+            "D",
+            "D",
+            "D"
+        ],
+        "Próximo Jogo": {
+            "time": "Athletico Paranaense - PR",
+            "escudo": "https://conteudo.cbf.com.br/cdn/imagens/escudos/00004pr.jpg?v=2023100112"
+        }
+    }
+]
